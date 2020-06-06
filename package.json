@@ -13,7 +13,7 @@
     "start": "nodemon index.js --exec babel-node -e js"
   },
   "dependencies": {
-    "apollo-server-express": "^2.10.1",
+    "apollo-server-express": "^2.14.2",
     "express": "^4.17.1",
     "express-graphql": "^0.9.0",
     "graphql": "^14.6.0",
